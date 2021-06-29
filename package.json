@@ -2,7 +2,6 @@
   "name": "JSMarathonProEdition",
   "version": "1.0.0",
   "description": "RPG Game",
- 
   "scripts": {
     "lint": "npx eslint src/**/*.js",
     "prettier": "npx prettier --write .",
