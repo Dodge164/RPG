@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "RPG Game",
   "engines": {
-    "node": "13.14.0"
+    "node": "14.7.1"
   },
   "scripts": {
     "lint": "npx eslint src/**/*.js",
